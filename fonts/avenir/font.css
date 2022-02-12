@@ -1,0 +1,29 @@
+/* FONTS */
+@font-face {
+  font-family: 'Avenir';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Avenir Book'), local('Avenir-Book'), url('avenirltstd-book-webfont.eot') format('embedded-opentype'), url('avenirltstd-book-webfont.woff') format('woff'), url('avenirltstd-book-webfont.ttf') format('truetype');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Avenir';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Avenir Medium'), local('Avenir-Medium'), url('avenirltstd-medium-webfont.eot') format('embedded-opentype'), url('avenirltstd-medium-webfont.woff') format('woff'), url('avenirltstd-medium-webfont.ttf') format('truetype');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Avenir';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Avenir Heavy'), local('Avenir-Heavy'), url('avenirltstd-heavy-webfont.eot') format('embedded-opentype'), url('avenirltstd-heavy-webfont.woff') format('woff'), url('avenirltstd-heavy-webfont.ttf') format('truetype');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Avenir';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Avenir Black'), local('Avenir-Black'), url('avenirltstd-black-webfont.eot') format('embedded-opentype'), url('avenirltstd-black-webfont.woff') format('woff'), url('avenirltstd-black-webfont.ttf') format('truetype');
+  font-display: swap;
+}
